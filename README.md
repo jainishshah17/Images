@@ -1,2 +1,0 @@
-# Images
-mine images
